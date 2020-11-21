@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Iris - About</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<!--[if IE]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8">
+	<![endif]-->
+</head>
+<body>
+	<div id="background">
+		<div id="page">
+			
+			<?php
+				include('header.inc');
+			?>
+			
+			<div id="contents">
+				<?php
+					include('sidebar.inc');
+				?>
+				<div id="program">
+					<h2>Curriculum Vitae</h2>
+					<p>
+						Click <a href="cv_Iris.pdf" target="_blank">here</a> to download a pdf version of my complete CV.
+					</p>
+					 
+ 					<h3>Personal details</h3>
+ 					<hr noshade>
+					
+ 					<table>
+ 					  <tr>
+ 					    <td style="vertical-align:top;" width="85px">Date of birth</td>
+ 					    <td>October 19, 1992</td> 
+ 					  </tr>
+ 					  <tr>
+ 					    <td style="vertical-align:top;" width="85px">Place of birth</td>
+ 					    <td style="vertical-align:top;">Waalwijk, The Netherlands</td> 
+ 					  </tr>
+ 					  <tr>
+ 					    <td style="vertical-align:top;" width="85px">Nationality</td>
+ 					    <td style="vertical-align:top;">Dutch</td> 
+ 					  </tr>
+ 					</table>
+ 					<br>
+					 
+ 					<h3>Research interests</h3>
+ 					<hr noshade>
+ 					<table>
+						<tr><td>&#x25cf; Geodynamics </td></tr>
+ 						<tr><td>&#x25cf; Subduction dynamics </td></tr>
+ 						<tr><td>&#x25cf; Mantle dynamics </td></tr>
+						<tr><td>&#x25cf; Lithosphere dynamics </td></tr>
+						<tr><td>&#x25cf; Venus </td></tr>
+ 						<tr><td>&#x25cf; Seismology </td></tr>
+ 						<tr><td>&#x25cf; Subduction zone earthquakes </td></tr>
+ 						<tr><td>&#x25cf; Tsunami generation by earthquakes </td></tr>
+						<tr><td>&#x25cf; Numerical modelling </td></tr>
+						<tr><td>&#x25cf; Dynamic rupture modelling </td></tr>
+ 					</table>
+					<br>
+					 
+					<h3>Experience</h3>
+					<hr noshade>
+					
+					<table>
+  					  <tr>
+  					    <td style="vertical-align:top;" width="85px">2020-present</td>
+  					    <td><span>Postdoctoral research associate</span>, University of Leeds, United Kingdom, Tectonics Group. <br></td> 
+  					  </tr>
+					  <tr>
+					    <td style="vertical-align:top;" width="85px">2015–2019</td>
+					    <td><span>PhD candidate</span>, ETH Z&uuml;rich, Switzerland, Seismology and Wave Physics Group. <br></td> 
+					  </tr>
+					  <tr>
+					    <td style="vertical-align:top;" width="85px">2018, 2019</td>
+					    <td style="vertical-align:top;"><span>Visiting researcher</span>, Utrecht University, The Netherlands, Tectonics group.</td> 
+					  </tr>
+					  <tr>
+					    <td style="vertical-align:top;" width="85px">2016, 2017, 2018, 2019</td>
+					    <td style="vertical-align:top;"><span>Visiting researcher</span> during multiple visits of 1 - 2 weeks over the course of 2 years, Ludwig-Maximilians-Universität München, Germany, Seismology group.</td> 
+					  </tr>
+					  <tr>
+					    <td style="vertical-align:top;" width="85px">2014</td>
+					    <td style="vertical-align:top;"><span>Visiting student</span>, Norges Geologiske Undersøkelse, Norway, Geodynamics Team.</td> 
+					  </tr>
+					</table>
+					<br>
+					
+					<h3>Education</h3>
+					<hr noshade>
+					<table>
+				  <tr>
+				    <td style="vertical-align:top;" width="85px">2015-2019</td>
+				    <td style="vertical-align:top;"><span>Doctor of Philosophy</span>, ETH Z&uuml;rich, Switzerland. <br><strong>Thesis</strong>: <em>Tsunamigenic earthquakes: from tectonics to dynamic rupture</em>. <br><strong>Supervisors</strong>: <a target=_none href="https://www.erdw.ethz.ch/en/people/profile.html?persid=189884">A. Fichtner</a> and <a target=_none href="https://www.uu.nl/medewerkers/YvanDinther">Y. van Dinther</a>. </td> 
+				  </tr>	
+					  <tr>
+					    <td style="vertical-align:top;" width="85px">2014–2015</td>
+					    <td style="vertical-align:top;"><span>Master of Science, Earth structure and dynamics, Cum laude, GPA 4.0</span>, Utrecht University, The Netherlands. <br> <strong>Total duration of program</strong>: 1.5 years.<br><strong>Track</strong>: Physics of the deep Earth and planets. <br><strong>Master thesis</strong>: <em>Mantle dynamics on Venus: insights from numerical modelling</em>. <br><strong>Supervisors</strong>: <a target=_none href="https://www.uu.nl/staff/APvandenBerg/0">A. P. van den Berg</a>, <a target=_none href="http://www.imperial.ac.uk/people/r.ghail">R. C. Ghail</a> and <a target=_none href="https://www.uu.nl/staff/CAPThieulot1">C. Thieulot</a>. <br><strong>Guided Research</strong>: <em>Numerical geodynamic modelling: compression and extension using ASPECT, SULEC and ELEFANT</em>. <br><strong>Supervisors</strong>: <a target=_none href="https://www.uu.nl/staff/CAPThieulot1">C. Thieulot</a> and <a target=_none href="http://www.geodynamics.no/buiter/">S. J. H. Buiter</a>.</td> 
+					  </tr>
+					  <tr>
+					    <td style="vertical-align:top;" width="85px">2011–2014</td>
+					    <td style="vertical-align:top;"><span>Bachelor of Science, Earth sciences, Cum laude, GPA 4.0</span>, Utrecht University, The Netherlands. <br> <strong>Total duration of program</strong>: 2.5 years. <br> 1st year geology field course in Aliaga, Spain (4 weeks). <br> <strong>Tracks</strong>: Dynamics of the Solid Earth & Geology of the Solid Earth. <br><strong>Bachelor thesis</strong>: <em>On the influence of weak zones on lithospheric- and crustal-scale numerical models</em>. <strong>Supervisors</strong>: <a target=_none href="https://www.uu.nl/staff/CAPThieulot1">C. Thieulot</a> and <a target=_none href="https://www.uu.nl/staff/WSpakman/0">Dr. W. Spakman</a>.</td> 
+					  </tr>
+					  <tr>
+						  <td style="vertical-align:top;" width="85px">2004–2010</td>
+						  <td style="vertical-align:top;"><span>Gymnasium, Cum laude</span>, Dr. Mollercollege, Waalwijk, The Netherlands.</td>
+					  </tr>
+					</table>
+					<br>
+					
+					
+					
+					<h3>Teaching experience</h3>
+					<hr noshade>
+					<table>
+						<tr>
+					<td style="vertical-align:top;" width="85px">2017, 2020 </td>
+					<td style="vertical-align:top;"><span>Supervisor MSc students</span> <br> 
+						&#x25cf; Euan Miles, <em>Modelling the Dynamic Triggering of Outer Rise Earthquakes</em>, Master internship, 2020, University of Leeds. <br>
+						&#x25cf; Sunniva Moris, <em>Simulating Earthquake-Generated Subduction Zone Tsunamis</em>, Master thesis, 2017, ETH Zürich. </td>
+					</tr>
+					<tr>
+						<td style="vertical-align:top;" width="85px">2012–2015 </td>
+						<td style="vertical-align:top;"><span>Teaching assistant</span>, Utrecht University, The Netherlands.<br> &#x25cf; System Earth 1, first year course, <em>2014</em>. <br> &#x25cf; Chemistry of the Earth 2, first year course, <em>2013</em>. <br> &#x25cf; Physics, first year course, <em>2013 and 2014</em>. <br> &#x25cf; Linear Algebra and Vector Analysis, second year course, <em>2012 and 2013</em>. <br> &#x25cf; Differential Equations in the Earth Sciences, second year course, <em>2013 and 2015</em>. <br> &#x25cf; Programming and Modelling of Earth Processes, third year course, <em>2013 and 2014</em>. <br> &#x25cf; Continuum mechanics, third year course, <em>2014</em>.</td>
+							</tr> 
+						</table>
+						<br>
+					
+					<h3>Awards & grants</h3>
+					<hr noshade>
+					<table>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2018</td> 
+							<td style="vertical-align:top;"><span>AGU Outstanding Student Presentation Award</span>, Seismology Section, AGU Fall Meeting 2018, Washington, D.C., USA.</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2018</td> 
+							<td style="vertical-align:top;"><span>EGU Best Blog Post</span> by Luca Dal Zilio for the EGU GD Blog Team, EGU, Munich, Germany.</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2017</td> 
+							<td style="vertical-align:top;"><span>CIDER 2017 research grant</span>, CIDER, Berkeley, USA, Co-PI, &dollar;5000,-.</td>
+						</tr>
+						
+						<tr>
+							<td style="vertical-align:top;" width="85px">2014</td> 
+							<td style="vertical-align:top;"><span>Travel grant</span>, Post-Alpbach, European Space Agency, France.</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2014</td> 
+							<td style="vertical-align:top;"><span>Student grant</span>, GeoMod 2014, Potsdam, Germany.</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2014</td> 
+							<td style="vertical-align:top;"><span>Oscar for competitiveness</span>, Summer School Alpbach, Austria.</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2014</td> 
+							<td style="vertical-align:top;"><span>Oscar for quality of presentation</span>, Summer School Alpbach, Austria.</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2014</td> 
+							<td style="vertical-align:top;"><span>Student grant</span>, SRON Netherlands Institute for Space Research, Utrecht, The Netherlands.</td>
+						</tr>
+					</table>
+					<br>
+					
+					<h3>Selected additional functions & activities</h3>
+					<hr noshade>
+					<table>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2018-present</td> 
+							<td style="vertical-align:top;"><span>Convener EGU GA</span>, European Geosciences Union, Vienna, Austria. <br> 
+								Sessions: <br>
+								&#x25cf; 2021 - Inter- and intraplate seismicity in subduction zones <br>
+								&#x25cf; 2019 - Understanding large subduction earthquakes and tsunamigenesis by integrating geological and geophysical observations, laboratory results, and numerical modeling <br>
+								Short courses: <br>
+								&#x25cf; 2021 – Geodynamics 101: Numerical models <br>
+								&#x25cf; 2019 – Geodynamics 101B: Large-scale dynamic processes <br>
+								&#x25cf; 2019 – Geodynamics 101A: Numerical methods <br>
+								&#x25cf; 2018 – Geodynamics 101: How to use and interpret numerical models of the solid Earth <br>
+								&#x25cf; 2018 – Seismology for non-seismologists: earthquakes & tsunamis
+							</td> 
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2017–present</td> 
+							<td style="vertical-align:top;"><span>Editor-in-Chief EGU geodynamics blog</span>, European Geosciences Union, Munich, Germany.</td> 
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2019</td> 
+							<td style="vertical-align:top;"><span>Organiser</span>, Symposium on geophysical space missions to terrestrial planets, Zürich, Switzerland.</td> 
+						</tr>
+						<tr>
+							<td style="vertical-align:top;" width="85px">2018</td> 
+							<td style="vertical-align:top;"><span>Principal meeting organiser & member of scientific committee</span>, 2nd ASCETE workshop on coupling 							earthquakes and tsunamis, Bayrischzell, Germany.</td> 
+						</tr>
+					</table>					
+				</div>
+				
+			</div>
+			<?php
+				include('footer.inc');
+			?>
+		</div>
+	</div>
+</body>
+</html>

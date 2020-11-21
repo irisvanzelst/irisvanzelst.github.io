@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>  
+	<meta charset="UTF-8">
+	<title>Iris van Zelst | University of Leeds</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<!--[if IE]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8">
+	<![endif]-->
+		
+		<script data-require="jquery@1.11.3" data-semver="1.11.3" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		
+		<script type="text/javascript">
+		            var picPaths = ['images/m_imgs/ireland.png','images/m_imgs/london.png','images/m_imgs/sanfrancisco.png','images/m_imgs/st_petersburg.png','images/m_imgs/pilatus.png'];
+		            var curPic = -1;
+		            //preload the images for smooth animation
+		            var imgO = new Array();
+		            for(i=0; i < picPaths.length; i++) {
+		                imgO[i] = new Image();
+		                imgO[i].src = picPaths[i];
+		            }
+
+		            function swapImage() {
+		                curPic = (++curPic > picPaths.length-1)? 0 : curPic;
+		                imgCont.src = imgO[curPic].src;
+		                setTimeout(swapImage,5000);
+		            }
+
+		            window.onload=function() {
+		                imgCont = document.getElementById('imgBanner');
+		                swapImage();
+		            }
+		        </script>
+		
+</head>
+<body>
+	<div id="background">
+		<div id="page">
+			
+			<header></header>
+			
+				<!--<?php
+					include('header.inc');
+				?>-->
+			
+			
+			<div id="contents">
+				<div id="adbox">
+					
+					<img id="imgBanner" src="" alt="" width="720px"/>
+					
+					
+				</div>
+				
+				<!--<?php
+					include('sidebar.inc');
+				?>-->
+					<sidebar></sidebar>
+				
+				<div class="header">
+					
+					
+	
+					
+					<p>
+						I am a postdoctoral research associate in geodynamics and seismology at the University of Leeds, United Kingdom under the supervision of <a target=_none  href="https://environment.leeds.ac.uk/see/staff/1216/dr-tim-craig">Tim Craig</a>.
+					</p>
+				</div>
+				<div id="featured">
+					<h2>Research</h2>
+					<p>
+						I use various numerical and observational methods to study subduction zones and the earthquakes that occur there. I recently finished my PhD on tsunamigenic earthquakes in subduction zones in the <a target=_none href="http://www.swp.ethz.ch">Seismology and Wave Physics group</a> at ETH Z&uuml;rich, Switzerland under the supervision of <a target=_none href="https://www.erdw.ethz.ch/en/people/profile.html?persid=189884">Andreas Fichtner</a> and <a target=_none href="https://www.uu.nl/medewerkers/YvanDinther">Ylona van Dinther</a>.
+					</p>
+					
+					<ul>
+						<li>
+							<img src="images/research/tsunami2.png" height="130" width="200">
+							<p>
+								Research
+							</p>
+							<span><a href="research.php" class="more">Learn More</a></span>
+						</li>
+						<li>
+							<img src="images/research/sc2dr2.png" height="130" width="200">
+							<p>
+								Publications
+							</p>
+							<span><a href="publications.php" class="more">Learn More</a></span>
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			<!--<?php
+				include('footer.inc');
+			?>-->
+				
+				<footer></footer>
+			
+		    <!-- code for including header/footer -->
+		       <script type="text/javascript">
+     
+		         // we're ready, include away
+		         $(window).ready(function(){
+       
+		           // use easy AJAX jQuery helpers
+       
+		           // add header.html into <header>
+		           $.get("header.html", function(fileData){
+		             $('header').html(fileData);
+		           });
+				   
+		           // add footer.html into <footer>
+		           $.get("sidebar.html", function(fileData){
+		             $('sidebar').html(fileData);
+		           });
+       
+		           // add footer.html into <footer>
+		           $.get("footer.html", function(fileData){
+		             $('footer').html(fileData);
+		           });
+       
+		         });
+		       </script>
+			
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Iris - Hobbies</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<!--[if IE]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8">
+	<![endif]-->
+</head>
+<body>
+	<div id="background">
+		<div id="page">
+			
+			<?php
+				include('header.inc');
+			?>
+			
+			<div id="contents">
+				
+				<?php
+					include('sidebar.inc');
+				?>
+				
+				<div id="events">
+					<h2>Things close to my heart</h2>
+					<p>&nbsp;</p>
+					
+					
+					<ul>
+						<li>
+							<img src="images/hobbies/books.png" height="200" width="180">
+							<div>		
+								<h4>Books</h4>
+								<p>
+									Reading fiction is one of my favourite pastimes. I try to read more than 40 books per year in genres such as fantasy, crime, romance, and classics (see my <a target=_blank href="https://www.goodreads.com/user/show/25357898-iris">Goodreads page</a>). I am an avid Harry Potter fan and I am the president of my <a target=_blank href="https://www.goodreads.com/group/show/158824-bilbo-bookclub">BILBO Bookclub</a> for which I read at least one classic every month, culmulating in almost 100 books over the years. 
+								</p>
+							</div>
+						</li>
+						
+						
+						<li>
+							<div>
+								<h4>Theatre</h4>
+								<p>
+							 In 2008, I followed a one-year part time musical theatre training at <a target=_blank href="http://www.djemm.nl">Djemm!</a> during which I did multiple gigs in the Netherlands and Germany and ultimately performed in the musical <a target=_blank href="http://www.djemm.nl/musicals/all-die-djezz-2008-"><em>All die Djezz!</em></a> (<em>Chicago</em>). I also performed in the play <em>Babylotion</em> at the theatre festival of Tilburg in 2008. Several of my holidays have been dedicated to theatre: I travelled to Edinburgh Festival Fringe in 2013 and I have been to the West End in London several times. Now that I live in the UK, I (intend to) go to the theatre regularly. Best show I saw in 2020: Pride and Prejudice* (*sort of) by Isobel McArthur. Fingers crossed the pandemic will soon be over.
+								</p>
+							</div>
+						</li>
+						
+						
+						<li>
+							<img src="images/hobbies/travel.png" alt="Img" height="200" width="180">
+							<div>
+								<h4>Travel</h4>
+								<p>
+									I love discovering new places and getting to know the local history, culture, and nature. A significant amount of my holidays has been Harry Potter, theatre, or book themed. Recent grand holidays include <a target=_blank href="https://www.albelli.nl/onlinefotoboek-bekijken/65f1818d-2dc2-4d95-b2bd-e1c6ba3c8749"><em>Japan (2016)</em></a>, <em>Harry Potter London (2016)</em> with the BILBO Bookclub, <a target=_blank href="http://www.imdb.com/title/tt0118617/"><em>Anastasia's</em></a> <em>Saint Petersburg (2017)</em>, and <em>Ireland (2017)</em>.
+								</p>
+							</div>
+						</li>
+						
+					</ul>
+					
+				</div>
+			 
+				
+			</div>
+			
+			<?php
+				include('footer.inc');
+			?>
+			
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Iris - Outreach</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<!--[if IE]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8">
+		<![endif]-->
+	</head>
+	<body>
+		<div id="background">
+			<div id="page">
+
+				<?php
+				include('header.inc');
+				?>
+
+				<div id="contents">
+				
+					<?php
+					include('sidebar.inc');
+					?>
+				
+					<div id="program">
+						<h2>Outreach</h2>
+						<p>
+							Outreach is one of my favourite things to do, because I love to get people enthusiastic about the Earth. I am the Editor-in-Chief of the <a target=_blank href="http://blogs.egu.eu/divisions/gd/">EGU Geodynamics Blog</a>, for which I write and edit blog posts aimed at the general public and fellow Earth scientists alike. I am also spearheading the successful short course 'Geodynamics 101', which is taught annually at the EGU General Assembly. 
+						<br><br>
+							I am always open for new outreach opportunities, so please don't hesitate to <a href="mailto:i.vanzelst@leeds.ac.uk">contact me</a> if you have an idea or would like to collaborate. 
+						</p>
+					
+						<h3>Lectures & Public speaking</h3>
+						<hr noshade>	
+				
+						<ul>
+							<li><p><strong>Special guest at lecture dynamische Erde</strong>, ETH Z&uuml;rich, Z&uuml;rich, Switzerland, November 22, 2018.</p></li>
+							<li><p> <a target=_blank href="https://www.pasc-conference.org/pasc16-video-on-poster-on-coupling-geodynamic-seismic-cycle-and-dynamic-rupture-models/ "><strong>Interview</strong></a> on my poster on Coupling Geodynamic Seismic Cycle and Dynamic Rupture Models, PASC 2016, Lausanne, Switzerland, July 26, 2016. </p></li>
+							<li><p><strong>Volunteer at Scientifica</strong> for the Swiss Seismological Survey, Zürich, Switzerland, September 5, 2015.</p></li>
+							<li><p> <strong>Aardwetenschappen</strong>, Guest lecture Algemene Natuur Wetenschappen (ANW; general science) Dr. Mollercollege, Waalwijk, The Netherlands, March 16, 2015. </p></li>
+							<li><p> <strong>Seismische tomografie</strong>, Beta Plus Lecture Utrecht University, December 16, 2014. </p></li>
+						</ul>
+					
+					
+					
+					
+						<br>
+						<h3>EGU Blogs</h3>
+						<hr noshade>
+						<h1>Author</h1>
+						<ul>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/08/26/how-to-fall-in-love/"><strong>How to fall in love?</strong></a>, EGU Geodynamics Blog, August 26, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/05/13/top-5-geodynamic-movies-to-watch-during-lockdown/"><strong>Top 5 geodynamic movies to watch during lockdown</strong></a>, EGU Geodynamics Blog, May 13, 2020.</p></li>
+							
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/11/28/presentation-skills-2-speech/"><strong>Presentation skills – 2. Speech</strong></a>, EGU Geodynamics Blog, November 28, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/09/26/presentation-skills-1-voice/"><strong>Presentation skills – 1. Voice</strong></a>, EGU Geodynamics Blog, September 26, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/09/12/cider-summer-school/"><strong>CIDER summer school</strong></a>, EGU Geodynamics Blog, September 12, 2018.</p></li>
+							<li><p><strong>Reporting ECS GD events at the EGU GA 2018:</strong> <a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/04/10/live-reporting-from-egu-ga-2018/"><strong>Report 1</strong></a>, <a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/04/10/egu-gd-informal-lunch/"><strong>Report 2</strong></a>, <a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/04/12/egu-gd-whirlwind-wednesday-geodynamics-101-other-events/"><strong>Report 3</strong></a>, EGU Geodynamics Blog, April 8 - 13, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/03/28/convection-in-eggs/"><strong>Convection in eggs</strong></a>, EGU Geodynamics Blog, March 28, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/12/27/the-fluid-dynamics-of-wine/"><strong>The fluid dynamics of wine</strong></a>,  EGU Geodynamics Blog, December 27, 2017.</p></li>
+							<li><p><a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/10/18/planting-seeds-of-deformation-in-numerical-models/"><strong>Planting seeds of deformation in numerical models</strong></a>, EGU Geodynamics Blog, October 18, 2017.</p></li>
+							<li><p><a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/09/20/why-there-should-not-be-more-women-in-geodynamics/"><strong>Why there should (not) be more women in geodynamics</strong></a>, EGU Geodynamics Blog, September 20, 2017.</p></li>
+							<li><p><strong>Secret Summaries NetherMod 2017:</strong> <a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/08/29/nethermod-day-2-secret-summary/"><strong>Day 2</strong></a>, <a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/08/30/nethermod-day-3-secret-summary/"><strong>Day 3</strong></a>, <a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/09/01/nethermod-day-4-5-secret-summary/"><strong>Day 4 & 5</strong></a>, EGU Geodynamics Blog, August 29 - September 1, 2017. </p></li>
+							<li><p><a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/07/26/karaoke-geodynamics-and-a-bit-of-history/"><strong>Karaoke, geodynamics, and a bit of history</strong></a>, EGU Geodynamics Blog, July 26, 2017. </p></li>	
+							<li>
+								<p>
+									<a target=_blank href="http://blogs.egu.eu/divisions/sm/2017/01/19/earthquakes-felt-by-eeyore/"><strong>Earthquakes felt by Eyeore</strong></a>, EGU Seismology Blog, January 19, 2017. 
+								</p>
+							</li>
+						</ul>
+						
+				
+						
+						
+						<br>
+						<h1>Editor</h1>
+						<ul>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/10/07/a-love-letter-to-science-fiction/"><strong>A love letter to science fiction</strong></a>, Maeve Murphy Quinlan, EGU Geodynamics Blog, October 7, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/08/19/baking-geological-cakes/"><strong>Baking geological cakes!</strong></a>, Ruth Amey, EGU Geodynamics Blog, August 19, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/06/24/happy-blog-birthday-3/"><strong>Happy blog birthday!</strong></a>, Editorial, EGU Geodynamics Blog, June 24, 2020.</p></li>	
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/05/27/introducing-the-new-blog-team/"><strong>Introducing the new blog team!</strong></a>, Editorial, EGU Geodynamics Blog, May 27, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/04/28/join-the-egu-gd-blog-team/"><strong>Join the EGU GD Blog Team!</strong></a>, Editorial, EGU Geodynamics Blog, April 28, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/04/22/geodynamics-what-does-it-really-mean/"><strong>Geodynamics – What does it really mean?</strong></a>, Colin Hardy, EGU Geodynamics Blog, April 22, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/03/11/introducing-the-social-media-team/"><strong>Introducing the social media team!</strong></a>, Editorial, EGU Geodynamics Blog, March 11, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/03/04/should-we-still-study-llsvps/"><strong>Should we still study LLSVPs?</strong></a>, Jamie Ward, EGU Geodynamics Blog, March 4, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2020/02/05/new-years-resolutions/"><strong>New Year’s Resolutions</strong></a>, Editorial, EGU Geodynamics Blog, February 5, 2020.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2019/12/18/we-wish-you-a-merry-christmas/"><strong>We wish you a Merry Christmas!</strong></a>, Editorial, EGU Geodynamics Blog, December 18, 2019.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2019/10/02/dancing-on-a-volcano-the-unspoken-scientific-endeavour/"><strong>Dancing on a volcano – the unspoken scientific endeavour</strong></a>, Dan Bower, EGU Geodynamics Blog, October 2, 2019.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2019/09/04/egu-call-for-sessions-deadline/"><strong>EGU GA 2020 call-for-sessions deadline</strong></a>, Editorial, EGU Geodynamics Blog, September 4, 2019.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2019/06/26/happy-blog-birthday-2/"><strong>Happy blog birthday!</strong></a>, Editorial, EGU Geodynamics Blog, June 26, 2019.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2019/05/15/introducing-the-blog-team/"><strong>Introducing the blog team!</strong></a>, Editorial, EGU Geodynamics Blog, May 15, 2019.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2019/01/18/a-belated-happy-new-year/"><strong>A belated happy new year!</strong></a>, Editorial, EGU Geodynamics Blog, January 18, 2019.</p></li>
+							<li><p><a target=_none href="https://blogs.egu.eu/divisions/gd/2018/12/05/get-conference-ready/"><strong>Get conference ready!</strong></a>, Editorial, EGU Geodynamics Blog, December 5, 2018.</p></li>
+							
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/11/23/an-industrial-placement-as-a-geodynamicist/"><strong>An industrial placement as a geodynamicist</strong></a>, Nico Schliffke, EGU Geodynamics Blog, November 23, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/11/07/inversion-101-through-201-part-3-accounting-for-uncertainty-bayes-and-friends/"><strong>Inversion 101 to 201 – Part 3: Accounting for uncertainty – Bayes and friends</strong></a>, Lars Gebraad, EGU Geodynamics Blog, November 7, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/10/31/inversion-101-through-201-part-2-the-inverse-problem-and-deterministic-inversion/"><strong>Inversion 101 to 201 – Part 2: The inverse problem and deterministic inversion</strong></a>, Lars Gebraad, EGU Geodynamics Blog, October 31, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/10/24/inversion-101-to-201-part-1-the-forward-problem/"><strong>Inversion 101 to 201 – Part 1: The forward problem</strong></a>, Lars Gebraad, EGU Geodynamics Blog, October 24, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/08/01/holiday-recommendations-blog-break-summer-2018/"><strong>Holiday recommendations – blog break summer 2018</strong></a>, Editorial, EGU Geodynamics Blog, August 1, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/07/18/the-rock-whisperers/"><strong>The rock whisperers...</strong></a>, Manar Alsaif, EGU Geodynamics Blog, July 18, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/07/11/50-years-of-plate-tectonics-then-now-and-beyond/"><strong>50 years of plate tectonics: then, now, and beyond</strong></a>, Marie Bocher, EGU Geodynamics Blog, July 11, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/07/04/lets-talk-about-disability-in-geosciences/"><strong>Let’s talk about disability in geosciences</strong></a>, Katy Willis, EGU Geodynamics Blog, July 4, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/06/27/happy-blog-birthday/"><strong>Happy blog birthday!</strong></a>, Editorial, EGU Geodynamics Blog, June 27, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/06/07/the-art-of-the-15-minute-talk/"><strong>The art of the 15-minute talk</strong></a>, Matthew Herman, EGU Geodynamics Blog, June 7, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/05/17/egu-2018-experience-of-a-first-time-attendee/"><strong>EGU 2018: Experience of a first time attendee</strong></a>, Jyotirmoy Paul, EGU Geodynamics Blog, May 17, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/04/25/new-faces-for-2018-2019/"><strong>New faces for 2018 – 2019</strong></a>, Editorial, EGU Geodynamics Blog, April 25, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/03/21/help-us-fight-patriarchy-one-comic-strip-at-a-time/"><strong>Help us fight patriarchy, one comic strip at a time!</strong></a>, Marie Bocher & Alice Adenis, EGU Geodynamics Blog, March 21, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/03/14/subduction-through-the-mantle-transition-zone-sink-or-stall/"><strong>Subduction through the mantle transition zone: sink or stall?</strong></a>, Saskia Goes, EGU Geodynamics Blog, March 14, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/01/25/work-life-balance-insights-from-geodynamicists/"><strong>Work-life balance: insights from geodynamicists</strong></a>, Jessica Munch, EGU Geodynamics Blog, January 25, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2018/01/03/happy-new-year/"><strong>Happy new year!</strong></a>, Editorial, EGU Geodynamics Blog, January 3, 2018.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/12/06/so-near-and-yet-so-far/"><strong>Conferences – so near and yet so far</strong></a>, Suzanne Atkins, EGU Geodynamics Blog, December 6, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/11/22/alaska-a-gold-rush-of-along-strike-variations/"><strong>Alaska: a gold rush of along strike variations</strong></a>, Kirstie Haynie, EGU Geodynamics Blog, November 22, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/11/15/the-quest-of-a-numerical-modelling-hero/"><strong>The quest of a numerical modelling hero</strong></a>, Cedric Thieulot, EGU Geodynamics Blog, November 15, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/11/01/the-jelly-sandwich-lithosphere-elastic-bread-the-jelly-and-gummy-bears/"><strong>The jelly sandwich lithosphere: elastic bread, the jelly, and gummy bears</strong></a>, Vojtěch Patočka, EGU Geodynamics Blog, November 1, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/10/11/poster-presentation-tips/"><strong>Poster presentation tips</strong></a>, Charitra Jain, EGU Geodynamics Blog, October 11, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/09/06/the-venus-enigma-new-insights-into-earth-2/"><strong>The Venus enigma: new insights into ‘Earth 2’</strong></a>, Richard Ghail, EGU Geodynamics Blog, September 6, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/08/30/nethermod-day-4-a-typical-day/"><strong>NetherMod Day 4 – A typical day</strong></a>, Ági Király, EGU Geodynamics Blog, August 20, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/08/30/nethermod-day-3-karaoke-fun/"><strong>NetherMod Day 3 – Karaoke fun!</strong></a>, Manar Alsaif, EGU Geodynamics Blog, August 30, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/08/10/the-worlds-largest-magnet/"><strong>The world’s largest magnet</strong></a>, Maurits Metman, EGU Geodynamics Blog, August 10, 2017.</p></li>
+							<li><p><a target=_blank href="https://blogs.egu.eu/divisions/gd/2017/07/19/dont-be-a-hero-unless-you-have-to/"><strong>Don’t be a hero – unless you have to</strong></a>, Cedric Thieulot, EGU Geodynamics Blog, July 19, 2017.</p></li>
+							<li><p><a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/07/12/too-early-seen-unknown-and-known-too-late/"><strong>Too early seen unknown, and known too late</strong></a>, Editorial, EGU Geodynamics Blog, July 12, 2017. </p></li>
+							<li><p><a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/06/26/our-geodynamission/"><strong>Our Geodynamission</strong></a>, Editorial, EGU Geodynamics Blog, June 26, 2017. </p></li>
+						</ul>
+					
+					
+
+
+					</div>
+				
+				</div>
+				<?php
+				include('footer.inc');
+				?>
+			</div>
+		</div>
+	</body>
+	</html>
