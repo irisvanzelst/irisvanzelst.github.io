@@ -112,7 +112,7 @@ img {
     text-decoration: underline;
 }
 #contents a h1 {
-	color: #43933B;
+	color: #312B81;
 	font-family: "Avenir Roman";
 	font-size: 14px;
 	line-height: 16px;
@@ -136,10 +136,12 @@ img {
 	padding: 0 0 24px;
 }
 #contents p a {
-	color: #312B81;
+	color: #43933B;
+	text-decoration: none;
 }
 #contents p a:hover {
 	color: #43933B;
+	text-decoration: underline;
 }
 #contents p em a {
 	font-weight: normal;
