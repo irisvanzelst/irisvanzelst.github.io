@@ -358,13 +358,17 @@ img {
 	padding: 9px 20px;
 }
 #sidebar a.more {
+	font-family: "Avenir Black";
 	background-position: right 5px;
 	color: #43933B;
 	text-decoration: none;
+	text-transform: uppercase;
 }
 #sidebar a.more:hover {
+	font-family: "Avenir Black";
 	color:#43933B;
 	text-decoration: underline;
+	text-transform: uppercase;
 }
 #sidebar .body > ul {
 	color: #312B81;
