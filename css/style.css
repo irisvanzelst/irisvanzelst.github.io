@@ -40,12 +40,11 @@ img {
 }
 /** Logo **/
 #logo a {
-	color: #E3147E;
+	color: #86D0F3;
 	font-family: "Avenir Black";
 	font-size: 40px;
 	line-height: 78px;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 /** Navigation **/
 #navigation {
@@ -203,8 +202,8 @@ img {
 	margin: 0 0 24px;
 }
 #contents > .footer h3 {
-	color: #fff;
-	font-family: "Avenir Roman";
+	color: #86D0F3;
+	font-family: "Avenir Black";
 	font-size: 18px;
 	font-weight: normal;
 	margin: 0 0 6px;
@@ -283,12 +282,11 @@ img {
 }
 #sidebar h4 {
 	color: #E3147E;
-	font-family: 'Avenir Roman';
+	font-family: 'Avenir Black';
 	font-size: 14px;
 	font-weight: normal;
 	margin: 20px 0 0;
 	padding: 0 10px;
-	text-transform: uppercase;
 }
 #sidebar h5 {
 	color: #312B81;
@@ -300,7 +298,7 @@ img {
 	text-transform: uppercase;
 }
 #sidebar h5 a {
-	color: #312B81;
+	color: #43933B;
 	text-decoration: none;
 }
 #sidebar h5 a:hover {
@@ -670,7 +668,7 @@ img {
 }
 #footer h4 {
 	color: #86D0F3;
-	font-family: "Avenir Roman";
+	font-family: "Avenir Black";
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0 0 5px;
