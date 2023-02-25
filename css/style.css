@@ -112,13 +112,12 @@ img {
     text-decoration: underline;
 }
 #contents a h1 {
-	color: #312B81;
+	color: #43933B;
 	font-family: "Avenir Roman";
 	font-size: 14px;
 	line-height: 16px;
 	font-weight: normal;
 	margin: 0;
-    text-decoration: underline;
 }
 #contents a h1:hover {
 	color: #43933B;
@@ -360,7 +359,7 @@ img {
 #sidebar a.more {
 	font-family: "Avenir Black";
 	background-position: right 5px;
-	color: #43933B;
+	color: #312B81;
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -574,7 +573,6 @@ img {
 	color: #fff;
 	text-decoration: none;
 	text-transform: uppercase;
-	text-decoration: underline;
 }
 #events ul li div h4 a:hover {
 	color:  #43933B;
