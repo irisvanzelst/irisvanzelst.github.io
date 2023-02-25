@@ -1,14 +1,13 @@
 /* Website template by freewebsitetemplates.com */
 @font-face {
-	font-family: 'Capriola-Regular';
-	src: url('../fonts/Capriola-Regular.eot');
-	src: local('☺'),  url('../fonts/Capriola-Regular.woff') format('woff'),  url('../fonts/Capriola-Regular.ttf') format('truetype'),  url('../fonts/Capriola-Regular.svg') format('svg');
+	font-family: 'Avenir Roman';
+	src: url('../fonts/AvenirLTStd-Roman.otf');
 	font-weight: normal;
 	font-style: normal;
 }
 body {
 	background: #fff repeat left top;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Avenir Roman';
 	margin: 0;
 }
 #background {
@@ -23,14 +22,8 @@ img {
 	border: 0;
 }
 /*------------------------------ HEADER ------------------------------*/
-#sidebar, #sidebar > div > div .body, #sidebar {
-	background: url(../images/bg-sidebar4.png) no-repeat;
-}
-.more, #connect a {
-	background: url(../images/interface.png) no-repeat;
-}
 .more {
-	font-family: "Capriola-Regular";
+	font-family: 'Avenir Roman';
 	font-size: 14px;
 	padding-right: 15px;
 	text-decoration: none;
@@ -44,8 +37,8 @@ img {
 }
 /** Logo **/
 #logo a {
-	color: #b90044;
-	font-family: "Capriola-Regular";
+	color: #E3147E;
+	font-family: "Avenir Roman";
 	font-size: 40px;
 	line-height: 78px;
 	text-decoration: none;
@@ -65,23 +58,23 @@ img {
 	width: 120px;
 }
 #navigation li a {
-	color: #312783;
+	color: #312B81;
 	display: block;
-	font-family: "Capriola-Regular";
+	font-family: "Avenir Roman";
 	font-size: 11px;
 	line-height: 35px;
-	border-top: 1px solid #409436;
+	border-top: 1px solid #43933B;
 	padding: 0;
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 #navigation li a:hover, #navigation li.selected a {
-	background-color: #312783;
+	background-color: #312B81;
 	color: #fff;
 	height: 36.5px;
-	border-left: 1px solid #409436;
-	border-right: 1px solid #409436;
+	border-left: 1px solid #43933B;
+	border-right: 1px solid #43933B;
 }
 /*------------------------------ CONTENTS ------------------------------*/
 #contents {
@@ -91,8 +84,8 @@ img {
 	margin-bottom: 36px;
 }
 #contents h2 {
-	color: #b90044;
-	font-family: "Capriola-Regular";
+	color: #E3147E;
+	font-family: "Avenir Black";
 	font-size: 18px;
 	line-height: 20px;
 	font-weight: normal;
@@ -100,16 +93,16 @@ img {
 	text-transform: uppercase;
 }
 #contents h3 {
-	color: #b90044;
-	font-family: "Capriola-Regular";
+	color: #E3147E;
+	font-family: "Avenir Roman";
 	font-size: 15px;
 	line-height: 15px;
 	font-weight: normal;
 	margin: 0;
 }
 #contents h1 {
-	color: #b90044;
-	font-family: "Capriola-Regular";
+	color: #E3147E;
+	font-family: "Avenir Roman";
 	font-size: 14px;
 	line-height: 16px;
 	font-weight: normal;
@@ -117,8 +110,8 @@ img {
     text-decoration: underline;
 }
 #contents a h1 {
-	color: #312783;
-	font-family: "Capriola-Regular";
+	color: #312B81;
+	font-family: "Avenir Roman";
 	font-size: 14px;
 	line-height: 16px;
 	font-weight: normal;
@@ -126,8 +119,8 @@ img {
     text-decoration: underline;
 }
 #contents a h1:hover {
-	color: #409436;
-	font-family: "Capriola-Regular";
+	color: #43933B;
+	font-family: "Avenir Roman";
 	font-size: 14px;
 	line-height: 16px;
 	font-weight: normal;
@@ -135,17 +128,17 @@ img {
     text-decoration: underline;
 }
 #contents p {
-	color: #685b4c;
+	color: #000000; 
 	font-size: 13px;
 	line-height: 16px;
 	margin: 0;
 	padding: 0 0 24px;
 }
 #contents p a {
-	color: #312783;
+	color: #312B81;
 }
 #contents p a:hover {
-	color: #409436;
+	color: #43933B;
 }
 #contents p em a {
 	font-weight: normal;
@@ -155,7 +148,7 @@ img {
 	font-size: 14px;
 }
 #contents .header {
-	background-color: #312783;
+	background-color: #312B81;
 	padding: 20px 20px;
 }
 #contents .header #sidebar {
@@ -164,7 +157,7 @@ img {
 }
 #contents .header p {
 	color: #fff;
-	font-family: "Capriola-Regular";
+	font-family: "Avenir Roman";
 	font-size: 14px;
 	line-height: 18px;
 	padding: 0;
@@ -173,17 +166,17 @@ img {
 	font-weight: normal;
 }
 #contents #sidebar p {
-	color: #685b4c;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-family: "Avenir Black"
 	font-size: 14px;
 	padding: 0;
 }
 #contents .header p a {
-	color: #409436;
+	color: #43933B;
 }
 #contents > div.footer {
-	background-color: #360746;
-	border-top: 1px solid #63287e;
+	background-color: #000000; 
+	border-top: 1px solid #312B81; 
 	padding: 12px 10px;
 }
 #contents > div.footer:after, #blog:after {
@@ -201,25 +194,25 @@ img {
 	vertical-align: text-top;
 }
 #contents > .footer h2 {
-	color: #ffecc3;
+	color: #86D0F3; 
 	margin: 0 0 24px;
 }
 #contents > .footer h3 {
 	color: #fff;
-	font-family: "Capriola-Regular";
+	font-family: "Avenir Roman";
 	font-size: 18px;
 	font-weight: normal;
 	margin: 0 0 6px;
 	text-transform: uppercase;
 }
 #contents > .footer p, #events ul li p {
-	color: #b29eba;
+	color: #312B81;
 }
 #contents > .footer p a, #events ul li p a {
-	color: #b29eba;
+	color: #43933B;
 }
 #contents > .footer p a:hover, #events ul li p a:hover {
-	color: #409436;
+	color: #43933B;
 }
 /** adbox **/
 #adbox {
@@ -233,14 +226,14 @@ img {
 	margin-bottom: 12px;
 }
 #featured > p {
-	color: #441554;
-	font-family: "Capriola-Regular";
+	color: #000000;
+	font-family: "Avenir Roman";
 	font-size: 14px;
 	line-height: 18px;
 	padding-bottom: 20px;
 }
 #featured > p a {
-	color: #409436;
+	color: #43933B;
 	font-weight: normal;
 }
 #featured > ul {
@@ -251,37 +244,30 @@ img {
 }
 #featured > ul li {
 	float: left;
-	background-color: #4c1863;
+	background-color: #86D0F3;
 	width: 200px;
 	margin-right: 20px;
 	padding: 0px;
 }
 #featured > ul li p {
-	color: #fff;
+	color: #312B81;
 	padding: 6px 15px 7.5px;
 	font-size: 13px;
 	line-height:16px;
+	font-align: justify;
 }
-#featured > ul li span {
-	background-color: #360746;
-	display: block;
-	padding: 8px 20px;
-}
-#featured a.more {
-	background-position: right -13px;
-	color: #409436;
-	font-size:13px;
-}
-#featured a.more:hover {
-	color:#409436;
-	text-decoration: underline;
+#featured > ul li p a{
+	color: #E3147E;
+	padding: -6px 15px 7.5px;
+	font-size: 14px;
+	line-height:16px;
 }
 /** SIDEBAR **/
 #sidebar {
 	float: right;
 	background-position: 0 0;
 	width: 210px;
-	border-bottom: 1px solid #ecd49f;
+	border-bottom: 1px solid #86D0F3;
 	margin: 28px 20px 0 30px;
 	padding-top: 40px;
 }
@@ -291,8 +277,8 @@ img {
 	text-transform: uppercase;
 }
 #sidebar h4 {
-	color: #b90044;
-	font-family: "Capriola-Regular";
+	color: #E3147E;
+	font-family: 'Avenir Roman';
 	font-size: 14px;
 	font-weight: normal;
 	margin: 20px 0 0;
@@ -300,8 +286,8 @@ img {
 	text-transform: uppercase;
 }
 #sidebar h5 {
-	color: #451a57;
-	font-family: "Capriola-Regular";
+	color: #312B81;
+	font-family: "Avenir Roman";
 	font-size: 13px;
 	font-weight: normal;
 	line-height: 15px;
@@ -309,15 +295,15 @@ img {
 	text-transform: uppercase;
 }
 #sidebar h5 a {
-	color: #451a57;
+	color: #312B81;
 	text-decoration: none;
 }
 #sidebar h5 a:hover {
-	color:#409436;
+	color:#43933B;
 	text-decoration: underline;
 }
 #sidebar p {
-	color: #685b4c;
+	color: #000000;
 	font-size: 12px;
 	line-height: 15px;
 }
@@ -325,17 +311,17 @@ img {
     height: 0px;
     border: 0;
 	display:block;
-	border-top: 1px solid #ecd49f;
+	border-top: 1px solid #86D0F3;
 	margin: 0 0 0px;
 }
 #sidebar > div {
-	background-color: #ffeec7;
+	background-color: #86D0F3;
 	list-style: none;
 	margin: 0;
 	padding: 0;
-	border-left: 1px solid #ecd49f;
-	border-right: 1px solid #ecd49f;
-	border-top: 1px solid #ecd49f;
+	border-left: 1px solid #86D0F3;
+	border-right: 1px solid #86D0F3;
+	border-top: 1px solid #86D0F3;
 }
 #sidebar > div .section {
 	background-position: right top;
@@ -351,29 +337,29 @@ img {
 	padding: 12px 20px;
 }
 #sidebar .body > span {
-	color: #b09779;
+	color: #86D0F3;
 	display: inline-block;
 	font-size: 10px;
 	margin: 7px 0;
 }
 #sidebar > span {
-	background-color: #ffecc3;
+	background-color: #86D0F3;
 	display: block;
-	border-left: 1px solid #ecd49f;
-	border-right: 1px solid #ecd49f;
+	border-left: 1px solid #86D0F3;
+	border-right: 1px solid #86D0F3;
 	padding: 9px 20px;
 }
 #sidebar a.more {
 	background-position: right 5px;
-	color: #451a57;
+	color: #312B81;
 	text-decoration: none;
 }
 #sidebar a.more:hover {
-	color:#409436;
+	color:#43933B;
 	text-decoration: underline;
 }
 #sidebar .body > ul {
-	color: #685b4c;
+	color: #000000;
 	font-size: x-small;
 	list-style-type: disc;
 	margin: 0 0 30px;
@@ -383,13 +369,13 @@ img {
 	margin-left: 6px;
 }
 #sidebar .body > ul li a {
-	color: #685b4c;
+	color: #000000;
 	font-size: 14px;
 	line-height: 24px;
 	text-decoration: none;
 }
 #sidebar .body > ul li a:hover {
-	color: #409436;
+	color: #43933B;
 	text-decoration: underline;
 }
 /** About and Blog pages **/
@@ -412,13 +398,13 @@ img {
 	margin: 0 0 24px;
 }
 #blog h5 > span {
-	color: #b09779;
+	color: #86D0F3;
 	display: block;
 	font-size: 10px;
 	line-height: 24px;
 }
 #blog p.quote {
-	font-family: "Capriola-Regular";
+	font-family: "Avenir Roman";
 }
 /** Programs **/
 #program {
@@ -426,32 +412,32 @@ img {
 	padding: 28px 20px 24px 20px;
 }
 #program table tr th {
-	color: #685b4c;
+	color: #000000;
 	font-size: 13px;
 	line-height: 15px;
 	margin: 0;
 	padding: 0 0 0px;
 }
 #program table tr td {
-	color: #685b4c;
+	color: #000000;
 	font-size: 13px;
 	line-height: 15px;
 	margin: 0;
 	padding: 0 0 0px;
 }
 #program > table tr td span {
-	color: #451a57;
-	font-family: "Capriola-Regular";
+	color: #312B81;
+	font-family: "Avenir Roman";
 }
 #program table tr td a{
-	color: #312783;
+	color: #312B81;
 	font-size: 13px;
 	line-height: 15px;
 	margin: 0;
 	padding: 0 0 0px;
 }
 #program table tr td a:hover{
-	color: #409436;
+	color: #43933B;
 	font-size: 13px;
 	line-height: 15px;
 	margin: 0;
@@ -467,26 +453,26 @@ img {
     height: 0px;
     border: 0;
 	display:block;
-	border-top: 1px solid #312783;
+	border-top: 1px solid #312B81;
 	margin: 0 0 10px;
 }
 #program > ul {
-	color: #451a57;
+	color: #312B81;
 	font-size: small;
 	margin: 0 0 0 15px;
 	padding: 0;
 }
 #program > ul li p span {
-	color: #451a57;
-	font-family: "Capriola-Regular";
+	color: #312B81;
+	font-family: "Avenir Roman";
 }
 /**#program > ul li p a {
-	color: #685b4c;
+	color: #000000;
 	font-size:13px;
 }**/
 #program > ul li p a span:hover {
-	color: #409436;
-	font-family: "Capriola-Regular";
+	color: #43933B;
+	font-family: "Avenir Roman";
 }
 #program > ul li p {
 	margin-bottom: -20px;
@@ -513,7 +499,7 @@ img {
 }
 #programs > ul li h5, #contacts h5 {
 	color: #fff;
-	font-family: "Capriola-Regular";
+	font-family: "Avenir Roman";
 	font-size: 16px;
 	font-weight: normal;
 	margin: 0 0 6px;
@@ -524,7 +510,7 @@ img {
 	text-decoration: none;
 }
 #programs > ul li h5 a:hover {
-	color:#409436;
+	color:#43933B;
 	text-decoration: underline;
 }
 /** event-list **/
@@ -547,11 +533,12 @@ img {
 	padding: 0;
 }
 #events ul li {
-	background-color: #360746;
+	background-color: #86D0F3;
 	display: inline-block;
 	height: 200px;
 	width: 440px;
 	margin: 0 0 24px;
+	text-align: justify;
 }
 #events ul li > img {
 	float: left;
@@ -561,8 +548,8 @@ img {
 	padding: 14px 20px 0;
 }
 #events ul li div h4 {
-	color: #fff;
-	font-family: "Capriola-Regular";
+	color: #E3147E;
+	font-family: "Avenir Black";
 	font-size: 13px;
 	font-weight: normal;
 	line-height: 15px;
@@ -575,7 +562,7 @@ img {
 	text-decoration: underline;
 }
 #events ul li div h4 a:hover {
-	color:  #409436;
+	color:  #43933B;
 	text-decoration: none;
 	text-transform: uppercase;
 	text-decoration: underline;
@@ -590,7 +577,7 @@ img {
 	display: block;
 }
 #events ul li div h4 a:hover {
-	color:#409436;
+	color:#43933B;
 	text-decoration: underline;
 }
 /** contact **/
@@ -630,7 +617,7 @@ img {
 	padding: 28px 0 0 10px;
 }
 #message h5 {
-	color: #ffecc3;
+	color: #86D0F3;
 }
 /** list **/
 #list {
@@ -639,14 +626,14 @@ img {
 	padding: 28px 10px 0;
 }
 #list ul {
-	color: #b29eba;
+	color: #312B81;
 	font-size: x-small;
 	margin: 0 0 0 15px;
 	padding: 0;
 }
 /*------------------------------ FOOTER ------------------------------*/
 #footer {
-	background: #ffecc3 url(../images/bg-footer.png) repeat-x left top;
+	background: #86D0F3 url(../images/bg-footer.png) repeat-x left top;
 	width: 100%;
 	height: 100px;
 	padding: 24px 0;
@@ -674,8 +661,8 @@ img {
 	margin: 0;
 }
 #footer h4 {
-	color: #fff;
-	font-family: "Capriola-Regular";
+	color: #86D0F3;
+	font-family: "Avenir Roman";
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0 0 5px;
@@ -683,16 +670,16 @@ img {
 	text-transform: uppercase;
 }
 #footer p {
-	color: #fff;
+	color: #86D0F3;
 	font-size: 12px;
 	line-height: 15px;
 	padding: 0 10px;
 }
 #footer p a {
-	color: #fff;
+	color: #86D0F3;
 }
 #footer p a:hover {
-	color: #409436;
+	color: #43933B;
 }
 #footer ul.navigation {
 	padding: 0;
@@ -709,10 +696,10 @@ img {
 	text-decoration: none;
 }
 #footer ul.navigation li a:hover, #connect a:hover {
-	color:#409436;
+	color:#43933B;
 }
 #connect a {
-	color: #fff;
+	color: #86D0F3;
 	display: block;
 	font-size: 12px;
 	height: 24px;
@@ -740,7 +727,7 @@ img {
 	background-position: 0 -149px;
 }
 #footnote {
-	color: #fff;
+	color: #86D0F3;
 	font-size: 12px;
 	line-height: 10px;
 	margin: 0;
