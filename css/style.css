@@ -363,7 +363,7 @@ img {
 	text-decoration: underline;
 }
 #sidebar .body > ul {
-	color: #000000;
+	color: #312B81;
 	font-size: x-small;
 	list-style-type: disc;
 	margin: 0 0 30px;
@@ -373,7 +373,7 @@ img {
 	margin-left: 6px;
 }
 #sidebar .body > ul li a {
-	color: #000000;
+	color: #312B81;
 	font-size: 14px;
 	line-height: 24px;
 	text-decoration: none;
@@ -430,8 +430,8 @@ img {
 	padding: 0 0 0px;
 }
 #program > table tr td span {
-	color: #312B81;
-	font-family: "Avenir Roman";
+	color: #43933B;
+	font-family: "Avenir Black";
 }
 #program table tr td a{
 	color: #312B81;
