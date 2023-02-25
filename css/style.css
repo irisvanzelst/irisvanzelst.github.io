@@ -170,8 +170,8 @@ img {
 	font-weight: normal;
 }
 #contents #sidebar p {
-	color: #000000;
-	font-family: "Avenir Black"
+	color: #312B81;
+	font-family: "Avenir Roman"
 	font-size: 14px;
 	padding: 0;
 }
@@ -341,7 +341,7 @@ img {
 	padding: 12px 20px;
 }
 #sidebar .body > span {
-	color: #86D0F3;
+	color: #312B81;
 	display: inline-block;
 	font-size: 10px;
 	margin: 7px 0;
@@ -414,6 +414,7 @@ img {
 #program {
 	min-height: 506px;
 	padding: 28px 20px 24px 20px;
+	text-align: justify;
 }
 #program table tr th {
 	color: #000000;
@@ -421,6 +422,7 @@ img {
 	line-height: 15px;
 	margin: 0;
 	padding: 0 0 0px;
+	text-align: justify;
 }
 #program table tr td {
 	color: #000000;
@@ -428,6 +430,7 @@ img {
 	line-height: 15px;
 	margin: 0;
 	padding: 0 0 0px;
+	text-align: justify;
 }
 #program > table tr td span {
 	color: #43933B;
