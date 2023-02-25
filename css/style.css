@@ -22,6 +22,9 @@ img {
 	border: 0;
 }
 /*------------------------------ HEADER ------------------------------*/
+#sidebar, #sidebar > div > div .body, #sidebar {
+	background: url(../images/bg-sidebar4.png) no-repeat;
+}
 .more {
 	font-family: 'Avenir Roman';
 	font-size: 14px;
@@ -38,7 +41,7 @@ img {
 /** Logo **/
 #logo a {
 	color: #E3147E;
-	font-family: "Avenir Roman";
+	font-family: "Avenir Black";
 	font-size: 40px;
 	line-height: 78px;
 	text-decoration: none;
@@ -60,8 +63,8 @@ img {
 #navigation li a {
 	color: #312B81;
 	display: block;
-	font-family: "Avenir Roman";
-	font-size: 11px;
+	font-family: "Avenir Black";
+	font-size: 12px;
 	line-height: 35px;
 	border-top: 1px solid #43933B;
 	padding: 0;
@@ -161,6 +164,7 @@ img {
 	font-size: 14px;
 	line-height: 18px;
 	padding: 0;
+	text-align: justify;
 }
 #contents .header p a {
 	font-weight: normal;
@@ -231,6 +235,7 @@ img {
 	font-size: 14px;
 	line-height: 18px;
 	padding-bottom: 20px;
+	text-align: justify;
 }
 #featured > p a {
 	color: #43933B;
@@ -254,7 +259,6 @@ img {
 	padding: 6px 15px 7.5px;
 	font-size: 13px;
 	line-height:16px;
-	font-align: justify;
 }
 #featured > ul li p a{
 	color: #E3147E;
@@ -287,7 +291,7 @@ img {
 }
 #sidebar h5 {
 	color: #312B81;
-	font-family: "Avenir Roman";
+	font-family: "Avenir Black";
 	font-size: 13px;
 	font-weight: normal;
 	line-height: 15px;
@@ -303,7 +307,7 @@ img {
 	text-decoration: underline;
 }
 #sidebar p {
-	color: #000000;
+	color: #312B81;
 	font-size: 12px;
 	line-height: 15px;
 }
@@ -464,7 +468,7 @@ img {
 }
 #program > ul li p span {
 	color: #312B81;
-	font-family: "Avenir Roman";
+	font-family: "Avenir Black";
 }
 /**#program > ul li p a {
 	color: #000000;
@@ -472,7 +476,7 @@ img {
 }**/
 #program > ul li p a span:hover {
 	color: #43933B;
-	font-family: "Avenir Roman";
+	font-family: "Avenir Black";
 }
 #program > ul li p {
 	margin-bottom: -20px;
@@ -690,7 +694,7 @@ img {
 	padding-left: 10px;
 }
 #footer ul.navigation li a {
-	color: #fff;
+	color: #86D0F3;
 	font-size: 12px;
 	line-height: 0px;
 	text-decoration: none;
