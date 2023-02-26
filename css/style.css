@@ -443,7 +443,7 @@ img {
 }
 #program > table tr td span {
 	color: #43933B;
-	font-family: "Avenir Black";
+	font-weight: bold;
 }
 #program table tr td a{
 	color: #312B81;
@@ -480,7 +480,7 @@ img {
 }
 #program > ul li p span {
 	color: #312B81;
-	font-family: "Avenir Black";
+	font-family: "Avenir Roman";
 }
 /**#program > ul li p a {
 	color: #000000;
@@ -491,6 +491,23 @@ img {
 	font-family: "Avenir Black";
 }
 #program > ul li p {
+	margin-bottom: -20px;
+}
+#program > ol {
+	color: #312B81;
+	font-size: small;
+	margin: 0 0 0 15px;
+	padding: 0;
+}
+#program > ol li p span {
+	color: #312B81;
+	font-family: "Avenir Roman";
+}
+#program > ol li p a span:hover {
+	color: #43933B;
+	font-family: "Avenir Black";
+}
+#program > ol li p {
 	margin-bottom: -20px;
 }
 #contents #programs {
@@ -526,6 +543,33 @@ img {
 	text-decoration: none;
 }
 #programs > ul li h5 a:hover {
+	color:#43933B;
+	text-decoration: underline;
+}
+#programs > ol {
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#programs > ol li {
+	float: left;
+	width: 280px;
+	margin: 0 20px;
+}
+#programs > ol li h5, #contacts h5 {
+	color: #fff;
+	font-family: "Avenir Roman";
+	font-size: 16px;
+	font-weight: normal;
+	margin: 0 0 6px;
+	text-transform: uppercase;
+}
+#programs > ol li h5 a {
+	color: #fff;
+	text-decoration: none;
+}
+#programs > ol li h5 a:hover {
 	color:#43933B;
 	text-decoration: underline;
 }
@@ -567,6 +611,14 @@ img {
 	color: #E3147E;
 	font-family: "Avenir Black";
 	font-size: 13px;
+	font-weight: normal;
+	line-height: 15px;
+	margin: 0 0 3px;
+}
+#events ul li div h4 span{
+	color: #312B81;
+	font-family: "Avenir Roman";
+	font-size: 11px;
 	font-weight: normal;
 	line-height: 15px;
 	margin: 0 0 3px;
