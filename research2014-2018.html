@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Dr. Iris van Zelst</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<!--[if IE]>
+		<link rel="stylesheet" href="css/ie.css" type="text/css" charset="utf-8">
+	<![endif]-->
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<link rel="icon" type="image/png" href="images/logo.png" />
+</head>
+<body>
+	<div id="background">
+		<div id="page">
+			
+			<header></header>
+			
+			<div id="contents">
+
+					<sidebar></sidebar>
+
+				<div id="events">
+					<h2>Research Projects (2014 - 2018)</h2>
+					<p>&nbsp;</p>
+					<p>
+					<a href="research2014-2018.html">[2014 - 2018]</a> <a href="research2019-2021.html">[2019 - 2021]</a> <a href="research.html">[Current projects]</a>
+					</p>
+					<ul>
+						
+						<li>
+							<div>
+								<h4>Hesperos: A geophysical mission to Venus</h4>
+								<p>
+									A space mission proposal was developed in 2014 during the Alpbach Summer School and Post Alpbach. The Hesperos mission aims to investigate the interior structure of Venus and its current level of tectonic activity. The mission consists of two elements: an orbiter to investigate the interior and changes over longer periods of time, and a balloon to investigate the composition of the atmosphere. The mission starts with the deployment of the balloon which operates for approximately 25 days. Once the balloon phase is completed the orbiter performs surface and gravity gradient mapping. The final preprint paper can be found <a target=_blank href="http://arxiv.org/abs/1803.06652">on arXiv</a>.
+								</p>
+							</div>
+						</li>
+						
+						<li>
+							<div>
+								<h4>The role of weak seeds in models of continental extension</h4>
+								<p>
+									A weak seed is a commonly used method to initiate and localise deformation in models of continental extension. We use a simple setup for continental breakup to test if and how different weak seeds influence the model evolution. Two different codes, SULEC and ELEFANT, were used to ensure that the obtained results are caused solely by the weak seed. The results show that the weak seed mainly influences the timing of the localisation and initiation of deformation. This research was presented with a <a target=_blank href="research/posterGeoMod2014.pdf">poster</a> at GeoMod 2014. I also published <a target=_blank href="http://blogs.egu.eu/divisions/gd/2017/10/18/planting-seeds-of-deformation-in-numerical-models/">a blog post</a> about this.
+								</p>
+							</div>
+						</li>
+					</ul>
+				</div>
+				</div>
+			</div>
+			
+				<footer></footer>
+			
+		    <!-- code for including header/footer -->
+		       <script type="text/javascript">
+     
+		         // we're ready, include away
+		         $(window).ready(function(){
+       
+		           // use easy AJAX jQuery helpers
+       
+		           // add header.html into <header>
+		           $.get("header.html", function(fileData){
+		             $('header').html(fileData);
+		           });
+				   
+		           // add footer.html into <footer>
+		           $.get("sidebar.html", function(fileData){
+		             $('sidebar').html(fileData);
+		           });
+       
+		           // add footer.html into <footer>
+		           $.get("footer.html", function(fileData){
+		             $('footer').html(fileData);
+		           });
+       
+		         });
+		       </script>
+			
+		</div>
+	</div>
+</body>
+</html>
