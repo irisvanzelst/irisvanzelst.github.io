@@ -109,7 +109,6 @@ img {
 	line-height: 16px;
 	font-weight: normal;
 	margin: 0;
-    text-decoration: underline;
 }
 #contents a h1 {
 	color: #312B81;
@@ -442,7 +441,7 @@ img {
 	text-align: justify;
 }
 #program > table tr td span {
-	color: #43933B;
+	color: #000000;
 	font-weight: bold;
 }
 #program table tr td a{
