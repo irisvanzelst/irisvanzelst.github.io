@@ -445,11 +445,12 @@ img {
 	font-weight: bold;
 }
 #program table tr td a{
-	color: #312B81;
+	color: #43933B;
 	font-size: 13px;
 	line-height: 15px;
 	margin: 0;
 	padding: 0 0 0px;
+	text-decoration: none;
 }
 #program table tr td a:hover{
 	color: #43933B;
@@ -457,6 +458,7 @@ img {
 	line-height: 15px;
 	margin: 0;
 	padding: 0 0 0px;
+	text-decoration: underline;
 }
 #program h2 {
 	margin: 0 0 24px;
