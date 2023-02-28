@@ -272,8 +272,8 @@ img {
 	background-position: 0 0;
 	width: 210px;
 	border-bottom: 1px solid #86D0F3;
-	margin: 28px 20px 0 30px;
-	padding-top: 40px;
+	margin: 20px 20px 0 30px;
+	padding-top: 20px;
 }
 #sidebar h2 {
 	margin: 0 0 11px;
@@ -285,7 +285,7 @@ img {
 	font-family: 'Avenir Black';
 	font-size: 14px;
 	font-weight: normal;
-	margin: 20px 0 0;
+	margin: 10px 0 0;
 	padding: 0 10px;
 }
 #sidebar h5 {
