@@ -272,8 +272,8 @@ img {
 	background-position: 0 0;
 	width: 210px;
 	border-bottom: 1px solid #86D0F3;
-	margin: 20px 20px 0 30px;
-	padding-top: 20px;
+	margin: 20px 20px 1px 20px;
+	padding-top: 10px;
 }
 #sidebar h2 {
 	margin: 0 0 11px;
