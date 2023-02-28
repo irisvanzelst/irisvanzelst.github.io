@@ -276,7 +276,12 @@ img {
 	padding-top: 20px;
 }
 #sidebar h2 {
-	margin: 0 0 11px;
+	color: #E3147E;
+	font-family: "Avenir Black";
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 15px;
+	margin: 0;
 	text-align: center;
 	text-transform: uppercase;
 }
