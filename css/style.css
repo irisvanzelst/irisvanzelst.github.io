@@ -294,6 +294,7 @@ img {
 	margin: 0;
 	text-align: center;
 	text-transform: uppercase;
+	text-decoration: none;
 }
 #sidebar h2 a:hover{
 	color: #43933B;
