@@ -285,6 +285,27 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 }
+#sidebar h2 a{
+	color: #E3147E;
+	font-family: "Avenir Black";
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 15px;
+	margin: 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+#sidebar h2 a:hover{
+	color: #43933B;
+	font-family: "Avenir Black";
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 15px;
+	margin: 0;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
 #sidebar h4 {
 	color: #E3147E;
 	font-family: 'Avenir Black';
